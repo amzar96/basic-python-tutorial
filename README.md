@@ -1,4 +1,3 @@
-# simple-quiz
-Very simple quiz using Python 3
+# basic python tutorial quiz exercise
 
-Quiz with options answer
+Every file have question with the answer
