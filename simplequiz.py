@@ -15,14 +15,14 @@ score = int(score)
 # WELCOME BACK
 ##############################
 name = input("Your name is? ")
-print("============\nHi %s, welcome to simple quiz question!"%(name))
+print("============\nHi %s, welcome to simple quiz game!"%(name))
 print("Your score now is %d \n============"%(score))
 
 
 ##############################
 #QUESTION 1
 ##############################
-print("\nQ1) The language spoken by the people by Pakistan is ?")
+print("\nQ1) The language spoken by the people in Pakistan is ?")
 print("A) Hindi \nB) Palauan \nC) Sindhi \nD) Nauruan")
 ans1 = input("\n     Your answer is ---->")
 
